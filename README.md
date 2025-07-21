@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://your-cv-link.com/YourName_CV.pdf" target="_blank">
+  <a href="./Ajit_Gandole_Tes_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
