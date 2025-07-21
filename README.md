@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name Here] — QA Engineer | Fresher | Tech Enthusiast  
-🔍 Passionate about Quality Assurance | 🧪 Manual & API Testing | 💻 Web & IoT Development
+# 👋 Hi, I'm Ajit Gandole | Software Engineer | Tech Enthusiast  
+🔍 Passionate about Software Quality Assurance | 🧪 Manual & API Testing | 💻 Web & IoT Development
 
 
 ## 📫 Let's Connect!  
