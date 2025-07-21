@@ -18,8 +18,9 @@
 </p>
 
 
-## 👨‍💻 Professional Summary  
-Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation in **manual testing**, **Java**, and **web technologies**. Experienced in writing test cases, executing functional and non-functional validations, and contributing across all stages of the **Software Development Life Cycle (SDLC)**. Proficient in **API testing**, bug tracking, and testing real-time, high-velocity systems. Strong collaboration, communication, and analytical problem-solving skills. Enthusiastic about **test automation** and **performance testing**.
+## 👨‍💻 About Me..  
+Sharp and driven **QA Engineer (Fresher)** with a solid foundation in **manual testing**, **Java**, and **web technologies**. Experienced in writing test cases, executing functional and non-functional validations, and contributing across all stages of the **Software Development Life Cycle (SDLC)**. Proficient in **API testing**, bug tracking, and testing real-time, high-velocity systems. Strong collaboration, communication, and analytical problem-solving skills. Enthusiastic about **test automation** and **performance testing**, currently leveling up skills in Jenkins and AWS through self-study.
+
 
 ## 🎓 Education  
 **Bachelor of Engineering in Electronics and Communication Engineering**  
