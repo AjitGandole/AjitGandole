@@ -66,6 +66,8 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 
 ### 💻 Technical Skills  
 
+<div align="center">
+
 <table>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></td>
@@ -102,7 +104,11 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
   </tr>
 </table>
 
+</div>
+
 ### 🧪 Testing Skills  
+
+<div align="center">
 
 <table>
   <tr align="center">
@@ -116,10 +122,13 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
     <td><b>Selenium</b></td>
     <td><b>Postman</b></td>
     <td><b>API Testing</b></td>
-    <td><b>Manual Testing</b></td>
+    <td><b>Manual Testing</b>
     <td><b>Test Cases</b></td>
   </tr>
 </table>
+
+</div>
+
 
 ## 📜 Certifications  
 - ✅ Java Testing – *Qspiders*  
