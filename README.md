@@ -65,15 +65,61 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 - Collaboration | Time Management | Agile Methodology  
 
 ### 💻 Technical Skills  
-- **Languages:** Java, Python  
-- **Web Tech:** Flask, Spring Boot, Hibernate, JSP, Servlet, HTML/CSS, JavaScript  
-- **Tools:** Postman, Selenium, MySQL  
-- **IoT/Embedded:** Raspberry Pi, ESP32, Sensors, ThingSpeak  
 
-### ✅ Testing Skills  
-- Manual Testing | Test Case Design | Test Plans  
-- Functional Testing | Regression | Sanity | Integration  
-- API Testing | Basic Security & Performance Testing  
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td><b>Java</b></td>
+    <td><b>Python</b></td>
+    <td><b>Flask</b></td>
+    <td><b>Spring Boot</b></td>
+    <td><b>Hibernate</b></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td><b>HTML</b></td>
+    <td><b>CSS</b></td>
+    <td><b>JavaScript</b></td>
+    <td><b>React</b></td>
+    <td><b>MySQL</b></td>
+  </tr>
+</table>
+
+### 🧪 Testing Skills  
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/></td>
+    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/96/null/api-settings.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/external-flat-icons-inmotus-design/100/null/external-test-flat-icons-inmotus-design-8.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/96/null/test-passed.png" width="50"/></td>
+  </tr>
+  <tr align="center">
+    <td><b>Selenium</b></td>
+    <td><b>Postman</b></td>
+    <td><b>API Testing</b></td>
+    <td><b>Manual Testing</b></td>
+    <td><b>Test Cases</b></td>
+  </tr>
+</table>
 
 ## 📜 Certifications  
 - ✅ Java Testing – *Qspiders*  
