@@ -1,14 +1,25 @@
 # 👋 Hi, I'm [Your Name Here] — QA Engineer | Fresher | Tech Enthusiast  
 🔍 Passionate about Quality Assurance | 🧪 Manual & API Testing | 💻 Web & IoT Development
 
----
 
-## 👨‍💻 Professional Summary
+## 📫 Let's Connect!  
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://your-cv-link.com/YourName_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
+
+
+## 👨‍💻 Professional Summary  
 Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation in **manual testing**, **Java**, and **web technologies**. Experienced in writing test cases, executing functional and non-functional validations, and contributing across all stages of the **Software Development Life Cycle (SDLC)**. Proficient in **API testing**, bug tracking, and testing real-time, high-velocity systems. Strong collaboration, communication, and analytical problem-solving skills. Enthusiastic about **test automation** and **performance testing**.
 
----
-
-## 🎓 Education
+## 🎓 Education  
 **Bachelor of Engineering in Electronics and Communication Engineering**  
 📍 Jain College of Engineering and Technology, Hubballi, KA  
 🧾 Visvesvaraya Technological University (VTU)  
@@ -16,9 +27,7 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 🎯 **CGPA:** 7.0  
 🔍 *Relevant Courses:* Digital & Analog Electronics, Signal Systems, Satellite Communication, Embedded Systems, IoT  
 
----
-
-## 💼 Experience
+## 💼 Experience  
 
 ### 📍 QA Engineer Intern @ Qspiders, Bangalore  
 📅 June 2024 – Feb 2025  
@@ -35,9 +44,7 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 - Web dashboard interface with **Python (Flask)**, **HTML/CSS**  
 - IoT-based device control using mobile or browser  
 
----
-
-## 🚀 Academic Projects
+## 🚀 Academic Projects  
 
 ### 📝 Attendance Management System  
 📅 Dec 2024 – Jan 2025  
@@ -51,9 +58,7 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 - Real-time data fetched using **ThingSpeak**, deployed for 24/7 border security  
 - **Tech:** Embedded Systems, Sensors, IoT, Python  
 
----
-
-## 🧠 Skills
+## 🧠 Skills  
 
 ### 👨‍💼 Soft Skills  
 - Analytical Thinking | Problem Solving | Communication  
@@ -70,6 +75,9 @@ Detail-oriented and motivated **QA Engineer (Fresher)** with a solid foundation 
 - Functional Testing | Regression | Sanity | Integration  
 - API Testing | Basic Security & Performance Testing  
 
----
+## 📜 Certifications  
+- ✅ Java Testing – *Qspiders*  
+- ✅ Embedded Full Stack & IoT – *GTTC*  
+- ✅ IoT Project Grant – *Karnataka State Council for Science & Technology*
 
-## 📜 Ce
+> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
