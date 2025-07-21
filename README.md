@@ -138,4 +138,4 @@ Sharp and driven **QA Engineer (Fresher)** with a solid foundation in **manual t
 - ✅ Embedded Full Stack & IoT – *GTTC*  
 - ✅ IoT Project Grant – *Karnataka State Council for Science & Technology*
 
-> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+ **“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin**
