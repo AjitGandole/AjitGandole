@@ -7,9 +7,11 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://your-cv-link.com/YourName_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
