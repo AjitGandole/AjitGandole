@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajit Gandole | Software Engineer | Tech Enthusiast  
+# 👋 Hi, I'm Ajit Gandole | Software Engineer 
 🔍 Passionate about Software Quality Assurance | 🧪 Manual & API Testing | 💻 Web & IoT Development
 
 
