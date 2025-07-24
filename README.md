@@ -134,7 +134,8 @@ Sharp and driven **QA Engineer (Fresher)** with a solid foundation in **manual t
 
 
 ## 📜 Certifications  
-- ✅ Java Testing – *Qspiders*  
+- ✅ Java Testing – *Qspiders*
+- ✅ Scholarship - *KSCST* 
 - ✅ Embedded Full Stack & IoT – *GTTC*  
 - ✅ IoT Project Grant – *Karnataka State Council for Science & Technology*
 
